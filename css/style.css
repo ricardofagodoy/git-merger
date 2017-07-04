@@ -1,0 +1,17 @@
+html, body {
+    font-size: 14px;
+}
+
+#title {
+    font-size: 3em;
+    margin-top: 2%;
+}
+
+#rock {
+    margin-top: 8%;
+    width: 80%;
+}
+
+.divider {
+    margin: 6% 3% 6% 3%;
+}
