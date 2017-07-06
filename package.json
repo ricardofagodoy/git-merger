@@ -2,9 +2,9 @@
   "name": "git-merger",
   "version": "0.0.1",
   "description": "Simple app to merge two git branches without conflict handling.",
-  "main": "main.js",
+  "main": "index.html",
   "scripts": {
-    "start": "electron ."
+    "start": "npm run start"
   },
   "repository": "https://github.com/ricardofagodoy/git-merger",
   "keywords": [
@@ -15,8 +15,8 @@
     "test"
   ],
   "author": "ricardofagodoy",
-  "devDependencies": {
-    "electron": "~1.6.2",
+  "devDependencies": {},
+  "dependencies": {
     "hammer": "0.0.5",
     "jquery": "^3.2.1",
     "materialize-css": "^0.99.0"

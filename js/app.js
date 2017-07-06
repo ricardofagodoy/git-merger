@@ -1,3 +1,5 @@
+/* https://www.npmjs.com/package/simple-git */
+
 window.$ = window.jQuery = require('jquery');
 require('hammerjs');
 require('materialize-css');
